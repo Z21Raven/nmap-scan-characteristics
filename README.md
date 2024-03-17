@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Characteristics of Port Scan Traffic
 ## Overview
 This project is established to analyze Nmap scan captured data. The work commenced as an academic endeavor aimed at studying the characteristics of Nmap scans.
@@ -11,6 +11,5 @@ Contributions to this project are welcome! If you're interested in network secur
 
 ## Notes
 The paper's link will be added upon publication.
-=======
-# nmap-scan-characteristics
->>>>>>> parent of 9806f5e (Update README.md)
+
+
